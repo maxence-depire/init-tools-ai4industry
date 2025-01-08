@@ -75,4 +75,7 @@ En bas on peut voir deux champs, dans le premier il faut coller le `token`, et d
 Il suffit ensuite de confirmer, et le mot de passe vous sera redemandé.
 
 
-# :fire::fire::fire: Les choses sérieuses.
+# :fire: Vous pouvez commencez.
+Tous est instalé, vous pouvez importez depuis `Jupyter` les `notebook` stocké dans ce dépôt, ils sont commenter et décrit, pour une meilleur comphrénsion.
+
+Pour importer, il faut sur rendre sur la page d'accueil, ensuite appuyez sur le bouton `upload`.
