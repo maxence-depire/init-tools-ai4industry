@@ -1,0 +1,8 @@
+# ignore the python venv
+venv/
+
+# ignore python compile file
+*.pyc
+
+# ignore MacOS temp file
+*.DS_Store
