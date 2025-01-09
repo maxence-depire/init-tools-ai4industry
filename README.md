@@ -47,8 +47,8 @@ source venv/bin/activate
 ```
 
 Maintenant, installons les bibliothèques (le téléchargement peut prendre un peu de temps).
-```
-pip install jupyter==1.0.0
+```bash
+pip install jupyter==1.0.0 matplotlib
 ```
 
 ## :rocket: Lancement de `Jupyter`.
